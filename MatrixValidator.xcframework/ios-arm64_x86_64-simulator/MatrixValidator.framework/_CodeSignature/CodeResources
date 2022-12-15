@@ -16,21 +16,17 @@
 		<data>
 		+++zO6bQNvvLFgKLLzvM6yTcNpw=
 		</data>
-		<key>Modules/MatrixValidator.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/MatrixValidator.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		7q0/AWL+TqECMHwD6ll82zNYBs8=
+		zz5AaeSs1HksSEG9H4NsUJg7BeI=
 		</data>
-		<key>Modules/MatrixValidator.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/MatrixValidator.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		JsKkM9l1IoLCNgbm2imuNnPrXPI=
+		SQxvNWnmh5TORKqKOv5A8z+miAk=
 		</data>
-		<key>Modules/MatrixValidator.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/MatrixValidator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1owIbrqO24Ippi/SdOdhcC70khg=
-		</data>
-		<key>Modules/MatrixValidator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		lUm3c+Yh579UKxSoKWXZTCvCMzM=
+		copbMAgnfLUtzB/N9QC0E69iYzc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -53,32 +49,25 @@
 			PAd5B0aZ3w1fSWPHPAl6uX78/IR52Kuok58tZnihSjQ=
 			</data>
 		</dict>
-		<key>Modules/MatrixValidator.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/MatrixValidator.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wzfqSv5iY/qzZet9leg7ywjuVQ+iOAcb7lsrtQG/+74=
+			6r5jFfE9L7svMqKMbdIyYlW/CWPcvW1O/4Iu0mnKKMc=
 			</data>
 		</dict>
-		<key>Modules/MatrixValidator.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/MatrixValidator.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/8XgdFhVaMpfx7MHnFpk4/5a6hIBK4ixuWcbqBZTYMg=
+			ShDYWQmj61zQWkqtTwUfe5Y5AiAgJfPwfYlNQjXT6cU=
 			</data>
 		</dict>
-		<key>Modules/MatrixValidator.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/MatrixValidator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x3GVpv3UrHxx9vI/jPUqs/2sW5FKeGFTaSI8AeM9GGI=
-			</data>
-		</dict>
-		<key>Modules/MatrixValidator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			i/gw8MIdiGLoPBZvuwseCHnRruO6cA1LPro9OVSz2U4=
+			EJT2+JxFGhWEDEJpT/gk27E1W8c6Ei02ac3GP5/gOoc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
