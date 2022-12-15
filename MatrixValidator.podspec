@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/rupinder-matrix/MatrixFramework.git", :tag => spec.version.to_s }
 # spec.source_files  = "MatrixValidator.xcframework/ios-arm64/MatrixValidator.framework/Headers/**/*.{h}"
 
-  spec.ios.vendored_frameworks = "MatrixValidator.xcframework"
+  spec.vendored_frameworks = "MatrixValidator.xcframework"
 
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"
